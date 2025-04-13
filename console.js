@@ -4,3 +4,4 @@ function all() {
   console.log(1+1)
 }
 
+colo
